@@ -1,4 +1,8 @@
 .venv/
+Lib/
+Scripts/
+etc/
+pyvenv.cfg
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
